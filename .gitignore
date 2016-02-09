@@ -9,3 +9,5 @@ dist/
 *.synctex.*
 *.pdf
 GenCode/*.hs
+*.o
+*.hi
